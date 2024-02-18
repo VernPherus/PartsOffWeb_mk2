@@ -48,11 +48,11 @@
         }
     </style>
     <link id="color-link" rel="stylesheet" type="text/css" href="assets/css/demo2.css">
-    <style>
+    <style>     
         nav svg{
             height: 20px;
         }
-        </style>
+        </style> <!-- IMPORTANT -->
     <style>
         .short-name .label-tag .btn-close {
             padding-top: 12px;
