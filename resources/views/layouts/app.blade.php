@@ -73,11 +73,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-left">
-                        <p>@2025 DreamDevs</p>
+                        <p>Contact Us</p>
                     </div>
-                    <div class="col-md-6 text-center text-md-right">
-                        <a href="#">Privacy Policy</a> |
-                        <a href="#">Terms of Service</a>
+                    <div class="col-md-6 text-center text-md-left">
+                        <p>About Us</p>
+                    </div>
+                    <div class="col-md-6 text-center text-md-left">
+                        <p>Follow Us</p>
                     </div>
                 </div>
             </div>
