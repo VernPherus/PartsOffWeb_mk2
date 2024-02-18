@@ -6,7 +6,7 @@
         <div class="col-md-6 col-lg-4">
             <div class="card border-dark rounded-3 shadow-lg" style="background-color: #C5CAE9;">
                 <div class="card-header bg-purple-700 text-center py-4">
-                    <h2 class="m-0 font-weight-bold text-uppercase">Welcome back!</h2>
+                    <h2 class="m-0 font-weight-bold text-uppercase">Login</h2>
                 </div>
                 <div class="card-body p-4">
                     <form method="POST" action="{{ route('login') }}">
